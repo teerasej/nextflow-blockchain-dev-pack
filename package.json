@@ -1,0 +1,21 @@
+{
+    "name": "nextflow-blockchain-dev-pack",
+    "displayName": "nextflow-blockchain-dev-pack",
+    "description": "A set of useful extension for your blockchain development quick start",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "beaugunderson.solidity-extended", 
+        "christian-kohler.path-intellisense", 
+        "esbenp.prettier-vscode", 
+        "hosho.solidity-debugger", 
+        "JuanBlanco.solidity",
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vscode-icons-team.vscode-icons"
+    ]
+}
